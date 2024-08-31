@@ -98,65 +98,47 @@ Code-generating tools can help generate, edit, or complete code for a variety of
 - Example industries: Data science, software development, web development
 - Stand-alone or integrated: Integrated
 
-Image- and media-generative AI tools
+## Image- and media-generative AI tools
 Media-generating AI tools help workers with tasks like generating and editing images, video, and speech. Examples include:
 
-Adobe Firefly
+[Adobe Firefly](https://www.adobe.com/products/firefly.html)
 
-Description: Built into the Adobe suite, Firefly can generate and edit images.
+- Description: Built into the Adobe suite, Firefly can generate and edit images.
+- Example industries: Design, education, marketing
+- Stand-alone or integrated: Integrated
 
-Example industries: Design, education, marketing
+[Canva Magic Design™](https://www.canva.com/magic-design/) 
 
-Stand-alone or integrated: Integrated
+- Description: Canva Magic Design is a tool that generates text and image content in Canva, an online graphic design tool.
+- Example industries: Design, education, marketing
+- Stand-alone or integrated: Integrated
 
-Canva Magic Design™ 
+[DALL-E](https://openai.com/index/dall-e-3/)
 
-Description: Canva Magic Design is a tool that generates text and image content in Canva, an online graphic design tool.
+- Description: Integrated with ChatGPT, DALL-E generates images from text prompts.
+- Example industries: Design, education, marketing
+- Stand-alone or integrated: Integrated
 
-Example industries: Design, education, marketing
+[ElevenLabs](https://elevenlabs.io/)
 
-Stand-alone or integrated: Integrated
+- Description: ElevenLabs is a speech AI tool that can generate spoken voice-over audio from text in different languages.
+- Example industries: Content creation, education, marketing, production
+- Stand-alone or integrated: Stand-alone
 
-DALL-E
+[Google Ads](https://ads.google.com/home/campaigns/ai-powered-ad-solutions/)
 
-Description: Integrated with ChatGPT, DALL-E generates images from text prompts.
+- Description: Google Ads helps businesses reach customers around the world, driving growth and performance. Google Ads makes it easy to create campaigns, measure impact and improve your results. Put Google AI to work for your business with the [Google Ads AI Essentials](https://support.google.com/google-ads/answer/13580022?hl=en&sjid=7328039753382751689-NC#zippy=%2Cget-ready-with-the-right-foundation%2Ctake-action-to-maximize-results-with-ai-powered-campaigns%2Cshift-mindsets-to-set-your-org-up-for-success). Learn more with the [AI Explored video series](https://www.youtube.com/playlist?list=PLNBdIP33wJ3r0QPgN9B1toGQPY_cgeVHR).
+- Example industries: Marketing, Advertising
+- Stand-alone or integrated: Integrated
 
-Example industries: Design, education, marketing
+[Midjourney](https://www.midjourney.com/home)
 
-Stand-alone or integrated: Integrated
+- Description: Integrated into Discord, Midjourney can generate images from text prompts.
+- Example industries: Design, education, marketing
+- Stand-alone or integrated: Integrated
 
-ElevenLabs
+[Runway](https://runwayml.com/)
 
-Description: ElevenLabs is a speech AI tool that can generate spoken voice-over audio from text in different languages.
-
-Example industries: Content creation, education, marketing, production
-
-Stand-alone or integrated: Stand-alone
-
-Google Ads
-
-Description: Google Ads helps businesses reach customers around the world, driving growth and performance. Google Ads makes it easy to create campaigns, measure impact and improve your results. Put Google AI to work for your business with the 
-Google Ads AI Essentials
-. Learn more with the 
-AI Explored video series
-.
-
-Example industries: Marketing, Advertising
-
-Stand-alone or integrated: Integrated
-
-Midjourney
-
-Description: Integrated into Discord, Midjourney can generate images from text prompts.
-
-Example industries: Design, education, marketing
-
-Stand-alone or integrated: Integrated
-
-Runway
-
-Description: Runway can generate a new video from a text prompt or edit an existing video’s style or focus area, and remove people or other elements.
-
-Example industries: Content creation, design, marketing, production
-
-Stand-alone or integrated: Stand-alone
+- Description: Runway can generate a new video from a text prompt or edit an existing video’s style or focus area, and remove people or other elements.
+- Example industries: Content creation, design, marketing, production
+- Stand-alone or integrated: Stand-alone
