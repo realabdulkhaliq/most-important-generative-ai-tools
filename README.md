@@ -80,29 +80,23 @@ Code-generating tools can help generate, edit, or complete code for a variety of
 - Example industries: Data science, software development, web development
 - Stand-alone or integrated: Both
 
-Replit AI
+[Replit AI](https://replit.com/ai)
 
-Description: This tool, built into Replit, is a cloud-based Integrated Development Environment (IDE) for programmers that can make suggestions, help explain code, and turn natural language into code.
+- Description: This tool, built into Replit, is a cloud-based Integrated Development Environment (IDE) for programmers that can make suggestions, help explain code, and turn natural language into code.
+- Example industries: Data science, software development, web development
+- Stand-alone or integrated: Integrated
 
-Example industries: Data science, software development, web development
+[Tabnine](https://www.tabnine.com/)
 
-Stand-alone or integrated: Integrated
+- Description: Tabnine can be a plugin to many popular code editors to help speed up delivery and keep code safe.
+- Example industries: Data science, software development, web development
+- Stand-alone or integrated: Stand-alone
 
-Tabnine
+[Jupyter AI](https://jupyter-ai.readthedocs.io/en/latest/)
 
-Description: Tabnine can be a plugin to many popular code editors to help speed up delivery and keep code safe.
-
-Example industries: Data science, software development, web development
-
-Stand-alone or integrated: Stand-alone
-
-Jupyter AI
-
-Description: Jupyter is an open-source platform for coding, and this built-in tool includes a chat interface, which can be used to generate code, fix coding errors, and ask questions about files.
-
-Example industries: Data science, software development, web development
-
-Stand-alone or integrated: Integrated
+- Description: Jupyter is an open-source platform for coding, and this built-in tool includes a chat interface, which can be used to generate code, fix coding errors, and ask questions about files.
+- Example industries: Data science, software development, web development
+- Stand-alone or integrated: Integrated
 
 Image- and media-generative AI tools
 Media-generating AI tools help workers with tasks like generating and editing images, video, and speech. Examples include:
