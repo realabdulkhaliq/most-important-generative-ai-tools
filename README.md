@@ -65,24 +65,20 @@ AI productivity and writing assistants can help with workplace tasks. They might
 - Example industries: Engineering, marketing, project management, technology
 - Stand-alone or integrated: Integrated
 
-Code-generative AI tools
+## Code-generative AI tools
 Code-generating tools can help generate, edit, or complete code for a variety of programming tasks in many different programming languages. Examples include:
 
-Android Studio Bot
+[Android Studio Bot](https://developer.android.com/studio/preview/gemini)
 
-Description: Built into Android Studio, Studio Bot can generate code and answer questions about Android development.
+- Description: Built into Android Studio, Studio Bot can generate code and answer questions about Android development.
+- Example industries: Data science, software development, web development
+- Stand-alone or integrated: Integrated
 
-Example industries: Data science, software development, web development
+[GitHub Copilot](https://github.com/features/copilot)
 
-Stand-alone or integrated: Integrated
-
-GitHub Copilot
-
-Description: Built into GitHub, Copilot can write and suggest code, suggest descriptions for pull requests, translate multiple languages into code, and index repositories.
-
-Example industries: Data science, software development, web development
-
-Stand-alone or integrated: Both
+- Description: Built into GitHub, Copilot can write and suggest code, suggest descriptions for pull requests, translate multiple languages into code, and index repositories.
+- Example industries: Data science, software development, web development
+- Stand-alone or integrated: Both
 
 Replit AI
 
