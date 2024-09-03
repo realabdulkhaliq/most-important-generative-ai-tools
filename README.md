@@ -142,3 +142,12 @@ Media-generating AI tools help workers with tasks like generating and editing im
 - Description: Runway can generate a new video from a text prompt or edit an existing video’s style or focus area, and remove people or other elements.
 - Example industries: Content creation, design, marketing, production
 - Stand-alone or integrated: Stand-alone
+
+
+# Google AI Studio
+
+[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)
+
+#### Docs
+[Google AI Studio quickstart](https://ai.google.dev/gemini-api/docs/ai-studio-quickstart)
+
